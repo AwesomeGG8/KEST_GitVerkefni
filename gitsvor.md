@@ -5,3 +5,9 @@
    * pwd: Sýnir vinnumöppu
    * mkdir: Býr til möppu
 
+2. Hvað gera eftirfarandi Git skipanir?
+
+   * git clone: Klónar Git repo
+   * git status: 
+   * git diff
+
