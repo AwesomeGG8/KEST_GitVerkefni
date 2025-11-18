@@ -8,6 +8,5 @@
 2. Hvað gera eftirfarandi Git skipanir?
 
    * git clone: Klónar Git repo
-   * git status: 
-   * git diff
-
+   * git status: Sýnir allt sem hefur ekki verið pushað
+   * git diff: Sýnir munin frá síðasta commit
